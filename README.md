@@ -3,6 +3,9 @@
 [![npm version](https://img.shields.io/npm/v/ai-comment.svg)](https://www.npmjs.com/package/ai-comment)
 [![npm downloads](https://img.shields.io/npm/dm/ai-comment.svg)](https://www.npmjs.com/package/ai-comment)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub stars](https://img.shields.io/github/stars/lxgic-studios/ai-comment)](https://github.com/lxgic-studios/ai-comment/stargazers)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-blue)](https://www.typescriptlang.org/)
+
 
 
 Add meaningful inline comments to complex code. Explains the WHY, not the WHAT.
