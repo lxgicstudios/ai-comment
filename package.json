@@ -1,0 +1,45 @@
+{
+  "name": "@lxgicstudios/ai-comment",
+  "version": "1.0.0",
+  "description": "Auto-generate JSDoc comments for TypeScript and JavaScript functions. Detects signatures, parameters, and return types. Preserves existing comments. Zero dependencies.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "bin": {
+    "ai-comment": "dist/index.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": [
+    "jsdoc",
+    "comment",
+    "typescript",
+    "documentation",
+    "auto",
+    "generate",
+    "cli",
+    "function",
+    "annotate",
+    "docs",
+    "code",
+    "ast",
+    "source",
+    "developer-tools"
+  ],
+  "author": "LXGIC Studios",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lxgicstudios/ai-comment"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "files": [
+    "dist"
+  ],
+  "devDependencies": {
+    "typescript": "^5.9.3"
+  }
+}
