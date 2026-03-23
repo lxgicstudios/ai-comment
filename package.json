@@ -7,6 +7,9 @@
   "bin": {
     "ai-comment": "dist/index.js"
   },
+  "files": [
+    "dist"
+  ],
   "scripts": {
     "build": "tsc",
     "prepublishOnly": "npm run build"
@@ -29,16 +32,25 @@
   ],
   "author": "LXGIC Studios",
   "license": "MIT",
+  "homepage": "https://github.com/LXGIC-Studios/@lxgicstudios/ai-comment#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/lxgicstudios/ai-comment"
+    "url": "git+https://github.com/LXGIC-Studios/ai-comment"
+  },
+  "bugs": {
+    "url": "https://github.com/LXGIC-Studios/@lxgicstudios/ai-comment/issues"
+  },
+  "funding": {
+    "type": "github",
+    "url": "https://github.com/sponsors/LXGIC-Studios"
   },
   "engines": {
     "node": ">=18"
   },
-  "files": [
-    "dist"
-  ],
+  "publishConfig": {
+    "access": "public",
+    "provenance": true
+  },
   "devDependencies": {
     "typescript": "^5.9.3"
   }
