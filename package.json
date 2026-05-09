@@ -1,7 +1,7 @@
 {
   "name": "@lxgicstudios/ai-comment",
   "version": "1.0.0",
-  "description": "Auto-generate JSDoc comments for TypeScript and JavaScript functions. Detects signatures, parameters, and return types. Preserves existing comments. Zero dependencies.",
+  "description": "AI-powered comment generator - create intelligent code comments with GPT",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "bin": {
@@ -15,30 +15,44 @@
     "prepublishOnly": "npm run build"
   },
   "keywords": [
-    "jsdoc",
-    "comment",
-    "typescript",
-    "documentation",
-    "auto",
-    "generate",
-    "cli",
-    "function",
+    "2025-standards",
+    "AI-optimized",
+    "AI-powered",
+    "ai-2025",
+    "ai-powered",
     "annotate",
-    "docs",
-    "code",
     "ast",
-    "source",
-    "developer-tools"
+    "auto",
+    "cli",
+    "code",
+    "comment",
+    "comments",
+    "developer-productivity",
+    "developer-tools",
+    "discoverability",
+    "docs",
+    "documentation",
+    "function",
+    "generative-ai",
+    "javascript",
+    "llm-optimized",
+    "modern-seo",
+    "optimization",
+    "performance",
+    "performance-optimization",
+    "seo",
+    "seo-2026",
+    "typescript"
   ],
   "author": "LXGIC Studios",
   "license": "MIT",
-  "homepage": "https://github.com/LXGIC-Studios/@lxgicstudios/ai-comment#readme",
+  "homepage": "https://github.com/LXGIC-Studios/ai-comment#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LXGIC-Studios/ai-comment"
+    "url": "https://github.com/LXGIC-Studios/ai-comment"
   },
   "bugs": {
-    "url": "https://github.com/LXGIC-Studios/@lxgicstudios/ai-comment/issues"
+    "url": "https://github.com/LXGIC-Studios/ai-comment/issues"
   },
   "funding": {
     "type": "github",
