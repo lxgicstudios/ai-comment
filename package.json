@@ -1,56 +1,61 @@
 {
-  "name": "@lxgicstudios/ai-comment",
-  "version": "1.0.0",
-  "description": "AI-powered comment generator - create intelligent code comments with GPT",
-  "main": "dist/index.js",
-  "types": "dist/index.d.ts",
+  "author": {
+    "name": "lxgic studios",
+    "email": "contact@lxgic.com",
+    "url": "https://lxgic.com"
+  },
   "bin": {
     "ai-comment": "dist/index.js"
-  },
-  "files": [
-    "dist"
-  ],
-  "scripts": {
-    "build": "tsc",
-    "prepublishOnly": "npm run build"
-  },
-  "keywords": [
-    "comments",
-    "documentation",
-    "typescript",
-    "javascript",
-    "cli",
-    "AI-powered",
-    "AI-optimized",
-    "performance",
-    "optimization",
-    "seo",
-    "discoverability",
-    "2025-standards",
-    "modern-seo"
-  ],
-  "author": "LXGIC Studios",
-  "license": "MIT",
-  "homepage": "https://github.com/lxgicstudios/ai-comment#readme",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/lxgicstudios/ai-comment"
   },
   "bugs": {
     "url": "https://github.com/lxgicstudios/ai-comment/issues"
   },
-  "funding": {
-    "type": "github",
-    "url": "https://github.com/sponsors/LXGIC-Studios"
+  "description": "AI-powered comment generator - create intelligent code comments with GPT",
+  "devDependencies": {
+    "typescript": "^5.9.3"
   },
   "engines": {
     "node": ">=18"
   },
+  "files": [
+    "dist"
+  ],
+  "funding": {
+    "type": "github",
+    "url": "https://github.com/sponsors/LXGIC-Studios"
+  },
+  "homepage": "https://github.com/lxgicstudios/ai-comment#readme",
+  "keywords": [
+    "AI-optimized",
+    "AI-powered",
+    "ai-powered",
+    "automation",
+    "best-practices",
+    "cli",
+    "developer-tools",
+    "performance",
+    "seo-tools",
+    "technical-seo",
+    "utility",
+    "web-optimization",
+    "2025-standards",
+    "modern-seo"
+  ],
+  "license": "MIT",
+  "main": "dist/index.js",
+  "name": "@lxgicstudios/ai-comment",
   "publishConfig": {
     "access": "public",
     "provenance": true
   },
-  "devDependencies": {
-    "typescript": "^5.9.3"
-  }
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LXGIC-Studios/npm-tools/tree/main/ai-comment"
+  },
+  "scripts": {
+    "build": "tsc",
+    "prepublishOnly": "npm run build"
+  },
+  "types": "dist/index.d.ts",
+  "version": "1.0.0"
 }
