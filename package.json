@@ -8,7 +8,7 @@
     "ai-comment": "dist/index.js"
   },
   "bugs": {
-    "url": "https://github.com/lxgicstudios/ai-comment/issues"
+    "url": "https://github.com/lxgicstudios/npm-tools/issues"
   },
   "description": "AI-powered comment generator - create intelligent code comments with GPT",
   "devDependencies": {
@@ -24,26 +24,13 @@
     "type": "github",
     "url": "https://github.com/sponsors/LXGIC-Studios"
   },
-  "homepage": "https://github.com/lxgicstudios/ai-comment#readme",
+  "homepage": "https://github.com/lxgicstudios/npm-tools/tree/main/ai-comment",
   "keywords": [
-    "2026-standards",
-    "modern-seo",
-    "lxgic",
-    "AI-optimized",
-    "AI-powered",
-    "agentic-automation",
-    "automation",
-    "best-practices",
-    "cli",
-    "dev-automation",
-    "developer-tools",
-    "performance",
-    "seo-tools",
-    "technical-seo",
-    "core-update-ready",
-    "google-ai-overviews",
-    "eeat-seo",
-    "june-2026-update"
+    "code-comments",
+    "jsdoc",
+    "inline-docs",
+    "documentation",
+    "code-clarity"
   ],
   "license": "MIT",
   "main": "dist/index.js",
@@ -54,7 +41,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/LXGIC-Studios/npm-tools/tree/main/ai-comment"
+    "url": "git+https://github.com/lxgicstudios/npm-tools.git",
+    "directory": "ai-comment"
   },
   "scripts": {
     "build": "tsc",
